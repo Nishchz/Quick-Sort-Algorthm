@@ -20,4 +20,4 @@ Works on any integer array
 
 📌 File Included
 
-QuickSort.java — main implementation
+DivideConquer.java — main implementation
