@@ -5,6 +5,6 @@
   </div>
   <div>
     <h2>🧾 Intro</h2>
-    <p>Quick Sort is one of the most efficient sorting algorithms and works by selecting a <b>pivot elements</b></p>
+    <p>Quick Sort is one of the most efficient sorting algorithms and works by selecting a <b>pivot elements</b> partitioning the array around the pivot and recursively sorting the subarrays </p>
   </div>
 </body>
