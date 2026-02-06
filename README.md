@@ -8,7 +8,7 @@
     <p>Quick Sort is one of the most efficient sorting algorithms and works by selecting a <b>pivot elements</b> partitioning the array around the pivot and recursively sorting the subarrays . </p>
   </div>
   <div>
-  <h1> How Ouick Sort Works </h1>
+  <h1>🧠 How Ouick Sort Works </h1>
     
   </div>
 </body>
