@@ -10,7 +10,7 @@
   <div>
   <h1>🧠 How Ouick Sort Works </h1>
   <ol>
-    <li>Choose a <b>pviot elements</b> ( here the last elements of the array )</li>
+    <li>Choose a <b>pivot elements</b> ( here the last elements of the array )</li>
      <li>Partion the array so that :</li>
     <ul>
     <li> Elements smaller than the pivot come to the left </li>
