@@ -15,7 +15,8 @@
     <ul>
     <li> Elements smaller than the pivot come to the left </li>
     <li> Elements greater than the pivot come to the right </li>
-     </ul>
+      </ul>
+    <li>Recursively apply Quick Sort on</li>
   </ol>
   
     
