@@ -16,7 +16,11 @@
     <li> Elements smaller than the pivot come to the left </li>
     <li> Elements greater than the pivot come to the right </li>
       </ul>
-    <li>Recursively apply Quick Sort on -> < /li>
+    <li>Recursively apply Quick Sort on -> </li>
+    <ul>
+      <li>Left Subarray</li>
+      <li>Right Subarray</li>
+    </ul>
   </ol>
   
     
