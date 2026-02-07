@@ -13,9 +13,8 @@
     <li>Choose a <b>pviot elements</b> ( here the last elements of the array )</li>
      <li>Partion the array so that :</li>
     <ul>
-    <li> Elements smaller than the pvoit coem to the left </li>
-     
-    </ul>
+    <li> Elements smaller than the pivot come to the left </li>
+     </ul>
   </ol>
   
     
