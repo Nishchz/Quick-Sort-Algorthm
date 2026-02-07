@@ -14,6 +14,7 @@
      <li>Partion the array so that :</li>
     <ul>
     <li> Elements smaller than the pivot come to the left </li>
+    <li>vElements greater than the pivot come to the right </li>
      </ul>
   </ol>
   
