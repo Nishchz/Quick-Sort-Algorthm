@@ -29,7 +29,8 @@
     <li><b><mark>Quick sort (int arr[] ,int si,int ei) </mark></b></li>
     <li> Recursively sorts the array</li>
     <ol>
-      <li> si-> starting indx</li>
+      <li> si-> starting index</li>
+      <li> ei->  ending index </li>
     </ol>
   </ul>
     
