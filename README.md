@@ -25,6 +25,12 @@
   </div>
   <div>
   <h1>👩‍💻 Function Explained</h1>
+  <ul>
+    <li><b><mark>Quick sort (int arr[] ,int si,int ei) </mark></b></li>
+    <ol>
+      <li></li>
+    </ol>
+  </ul>
     
   </div>
 </body>
