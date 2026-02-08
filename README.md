@@ -40,7 +40,14 @@
        <ul>
       <li>Place the pivot elements at its correct position</li>
       <li>Rearrange elements smaller than pivot to the left</li>
+      <li>Returns the pivot index </li>
     </ul>
+    </ul>
+    <ul>
+      <li> PrintArray(int arr[])</li>
+      <ul>
+        <li>ak</li>
+      </ul>
     </ul>
    
   </div>
