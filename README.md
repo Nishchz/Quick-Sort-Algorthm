@@ -46,7 +46,7 @@
     <ul>
       <li> PrintArray(int arr[])</li>
       <ul>
-        <li></li>
+        <li>Prints the sorted array</li>
       </ul>
     </ul>
    </div>
