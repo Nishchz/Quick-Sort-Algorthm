@@ -33,9 +33,11 @@
       <li> ei->  ending index </li>
     </ul>
   </ul>
-   <ul>
-    <li> partitions (int arr[],int si,int ei)</li>
-    <li>Place the pivot elements and its correct position</li>
-   </ul>
+    <ul>
+      <li>Partition (int arr[],int si,int ei)</li>
+    </ul>
+    <ul>
+      <li> bh</li>
+    </ul>
   </div>
 </body>
