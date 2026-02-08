@@ -27,8 +27,9 @@
   <h1>👩‍💻 Function Explained</h1>
   <ul>
     <li><b><mark>Quick sort (int arr[] ,int si,int ei) </mark></b></li>
+    <li> Recursively sorts the array</li>
     <ol>
-      <li></li>
+      <li> si-> starting indx</li>
     </ol>
   </ul>
     
