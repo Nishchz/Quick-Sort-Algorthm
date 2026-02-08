@@ -39,6 +39,7 @@
       <li>Partition (int arr[],int si,int ei)</li>
        <ul>
       <li>Place the pivot elements at its correct position</li>
+      li>Rearrange elements smaller than pivot to the left</li>
     </ul>
     </ul>
    
