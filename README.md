@@ -46,9 +46,8 @@
     <ul>
       <li> PrintArray(int arr[])</li>
       <ul>
-        <li>ak</li>
+        <li></li>
       </ul>
     </ul>
-   
-  </div>
+   </div>
 </body>
