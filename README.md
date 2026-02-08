@@ -33,6 +33,6 @@
       <li> ei->  ending index </li>
     </ol>
   </ul>
-    
+    <ul> partitions (int arr[],int si,int ei)</ul>
   </div>
 </body>
