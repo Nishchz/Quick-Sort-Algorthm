@@ -4,7 +4,7 @@
     <p>This repository contains a clean implementation of <b>Ouick Sort</b> using the <b>Divide And Conquer</b> approach in java</p>
   </div>
   <div>
-    <h1>🧾 I <h1> <h2>NTRODUCTION</h2>
+    <h2>🧾 INTRODUCTION</h2>
     <p>Quick Sort is one of the most efficient sorting algorithms and works by selecting a <b>pivot elements</b> partitioning the array around the pivot and recursively sorting the subarrays . </p>
   </div>
   <div>
