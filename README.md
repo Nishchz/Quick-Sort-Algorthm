@@ -38,7 +38,7 @@
     <ul>
       <li>Partition (int arr[],int si,int ei)</li>
        <ul>
-      <li> nj</li>
+      <li>Place the pivot elements at its correct position</li>
     </ul>
     </ul>
    
