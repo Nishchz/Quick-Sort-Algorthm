@@ -33,11 +33,14 @@
       <li> ei->  ending index </li>
     </ul>
   </ul>
+  </div>
+  <div>
     <ul>
       <li>Partition (int arr[],int si,int ei)</li>
+       <ul>
+      <li> nj</li>
     </ul>
-    <ul>
-      <li> bh</li>
     </ul>
+   
   </div>
 </body>
